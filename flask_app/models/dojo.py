@@ -1,4 +1,4 @@
-from pickle import NONE
+
 from flask_app.config.mysqlconnection import connectToMySQL
 from .ninja import Ninja
 
